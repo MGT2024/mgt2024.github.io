@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Gold nanowire batteries
-subtitle: Gels and nanowires 
-bigimg: https://www.popsci.com/sites/popsci.com/files/styles/800_1x_/public/dsc_0008.jpg
+subtitle: Gels and nanowires
 tags: [future battery, thin, durable]
 ---
 ##Gold nanowire batteries has the potential to replace current batteries as they can last longer and can withand 200,000 charges and shows no sign of tear and wear.##
