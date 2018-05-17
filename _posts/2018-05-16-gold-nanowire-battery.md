@@ -2,31 +2,32 @@
 layout: post
 title: Gold nanowire batteries
 subtitle: Gels and nanowires
+bigimg: https://www.popsci.com/sites/popsci.com/files/styles/655_1x_/public/dsc_0008.jpg?itok=Ll3TWX79&fc=49,51
 tags: [future battery, thin, durable]
 ---
-##Gold nanowire batteries has the potential to replace current batteries as they can last longer and can withand 200,000 charges and shows no sign of tear and wear.##
+## Gold nanowire batteries has the potential to replace current batteries as they can last longer and can withand 200,000 charges and shows no sign of tear and wear. ##
 
 <br>
 
 This research was discovered at University Of California Irvine by a team of people where their initial plan is to create a solid-state battery: one that uses electrolyte gel to replace liquid, which can be found in primary (non rechargable) and secondary cell (rechargable) batteries. (Hill et a.l, 2018)
 
-######Liquid batteries, like common lithium variety are *extremely combustile* and sensitive to temperature. Lithium would corrodes the battery and result in ability to hold a charge. ######
+###### Liquid batteries, like common lithium variety are *extremely combustile* and sensitive to temperature. Lithium would corrodes the battery and result in ability to hold a charge. ######
 
 <br>
 
--
-####*"We started to cycle the devices, and then realized that they weren't going to die,"*####
-######-Reginald Penner, the leader author of the paper#######
--
+---
+#### "We started to cycle the devices, and then realized that they weren't going to die," ####
+###### -Reginald Penner, the leader author of the paper #######
+---
 
 <br>
 
 This experiment was discovered accidentally. Even they themselves doesn't understand how the mechanism work.
 
--
-####*"We don't understand the mechanism of that yet"*####
-######-Reginald Penner, the leader author of the paper#######
--
+---
+####* "We don't understand the mechanism of that yet"*####
+######-Reginald Penner, the leader author of the paper #######
+---
 
 <br>
 
