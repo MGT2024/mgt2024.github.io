@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+This blog special report is created purely for educational use only, and is meant to fulfill group assignment requirements for MGT2024 - Scientific Ideas & Innovation at Sunway University, and not for any other purpose.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#Meet the Team
+<table>
+<tr>
+<td>
+<img src="https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/18301516_10211809360526191_7831231569766494874_n.jpg?_nc_cat=0&oh=132b2bc85811c85fd80387f4250c06a3&oe=5B8B2D1E">
+Chan Jing Hong, Design and Research</img>
+</td>
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<td>
+<img src="https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/10556458_939571076132664_3212009052836509322_n.jpg?_nc_cat=0&oh=c48a3b94bb8ce890fca7bcb7f5a91e95&oe=5B9AAE68">
+Shum Ka Poh, Research and Design</img>
+</td>
+</tr>
