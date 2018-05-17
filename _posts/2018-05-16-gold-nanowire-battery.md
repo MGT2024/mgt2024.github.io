@@ -16,19 +16,15 @@ This research was discovered at University Of California Irvine by a team of peo
 
 <br>
 
----
-#### "We started to cycle the devices, and then realized that they weren't going to die," ####
+#### "**We started to** cycle the devices, and then realized that they weren't going to die," ####
 ###### -Reginald Penner, the leader author of the paper #######
----
 
 <br>
 
 This experiment was discovered accidentally. Even they themselves doesn't understand how the mechanism work.
 
----
-#### "We don't understand the mechanism of that yet" ####
+#### "**We don't understand** the mechanism of that yet" ####
 ###### -Reginald Penner, the leader author of the paper #######
----
 
 <br>
 
