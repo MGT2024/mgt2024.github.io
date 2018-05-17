@@ -25,8 +25,8 @@ This research was discovered at University Of California Irvine by a team of peo
 This experiment was discovered accidentally. Even they themselves doesn't understand how the mechanism work.
 
 ---
-####* "We don't understand the mechanism of that yet"*####
-######-Reginald Penner, the leader author of the paper #######
+#### "We don't understand the mechanism of that yet" ####
+###### -Reginald Penner, the leader author of the paper #######
 ---
 
 <br>
@@ -34,7 +34,6 @@ This experiment was discovered accidentally. Even they themselves doesn't unders
 <img src="https://www.popsci.com/sites/popsci.com/files/styles/325_1x_/public/fig7-sem_shell_loss.jpg" style="margin:auto;display:block;">
 Credit: Popular Sience
 >The left picture shows nanowires without electrolyte gel, corrodes after 4,000 cycles of charges. The right picture shows nanowires with electrolyte gel applied, shows little sign of corrodes after 100,000 cycles of charges
-</img>
 
 Irvine battery technology team uses gold nanowire with metal oxide coating and layer of electrolyte gel protected. And they found out that the gel prevent the metal oxide coating from corrosion, and the longer the wire, the more charges it can holds. (Dave Gershgorn, 2016)
 
@@ -44,7 +43,7 @@ This is perhaps a great technology for the future! It can change how our gadgets
 
 Reference:  
 1. Dave Gershgorn (2016). Researchers Accidentally Make Batteries Last 400 Times Longer.  
-2. Hill, Marquita K., Watts, John., Wastebusters., Danaher, Kevin., Biggs, Shannon., Mark, Jason (2018_. Primary cell
+2. Hill, Marquita K., Watts, John., Wastebusters., Danaher, Kevin., Biggs, Shannon., Mark, Jason (2018). Primary cell
 
 
 
