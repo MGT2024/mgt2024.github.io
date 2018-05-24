@@ -10,9 +10,7 @@ author: Shum Ka Poh
 
 <br>
 
-This research was discovered at University Of California Irvine by a team of people where their initial plan is to create a solid-state battery: one that uses electrolyte gel to replace liquid, which can be found in primary (non rechargable) and secondary cell (rechargable) batteries. (Hill et a.l, 2018)
-
-###### Liquid batteries, like common lithium variety are *extremely combustile* and sensitive to temperature. Lithium would corrodes the battery and result in ability to hold a charge. ######
+This research was discovered at University Of California Irvine by a team of people where their initial plan is to create a solid-state battery: one that uses electrolyte gel to replace liquid, which can be found in primary (non rechargable) and secondary cell (rechargable) batteries. (Hill et a.l, 2018).  Liquid batteries, like common lithium variety are *extremely combustile* and sensitive to temperature. Lithium would corrodes the battery and result in ability to hold a charge.
 
 <br>
 #### "**We started to** cycle the devices, and then realized that they weren't going to die," ####
