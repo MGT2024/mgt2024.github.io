@@ -35,5 +35,5 @@ This is perhaps a great technology for the future! It can change how our gadgets
 ---
 
 Reference:  
-1. Dave Gershgorn (2016). Researchers Accidentally Make Batteries Last 400 Times Longer.  
-2. Hill, Marquita K., Watts, John., Wastebusters., Danaher, Kevin., Biggs, Shannon., Mark, Jason (2018). Primary cell
+1. Dave Gershgorn (2016). Researchers Accidentally Make Batteries Last 400 Times Longer. Retrieved from https://www.popsci.com/researchers-accidentally-make-batteries-last-400-times-longer
+2. Hill, Marquita K., Watts, John., Wastebusters., Danaher, Kevin., Biggs, Shannon., Mark, Jason (2018). Primary cell. Retrieved from https://en.wikipedia.org/wiki/Primary_cell
