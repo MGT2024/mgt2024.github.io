@@ -28,12 +28,14 @@ This experiment was discovered accidentally. Even they themselves doesn't unders
 Credit: Popular Sience
 >The left picture shows nanowires without electrolyte gel, corrodes after 4,000 cycles of charges. The right picture shows nanowires with electrolyte gel applied, shows little sign of corrodes after 100,000 cycles of charges
 
-Irvine battery technology team uses gold nanowire with metal oxide coating and layer of electrolyte gel protected. And they found out that the gel prevent the metal oxide coating from corrosion, and the longer the wire, the more charges it can holds. (Dave Gershgorn, 2016)
+Irvine battery technology team uses gold nanowire with metal oxide coating and layer of electrolyte gel protected. And they found out that the gel prevent the metal oxide coating from corrosion, and the longer the wire, the more charges it can holds. (Gershgorn, 2016)
 
-This is perhaps a great technology for the future! It can change how our gadgets more durable and save the environment by doesn't need to change battery frequently. But this technology has an issue, which is the resource: gold. The article mentioned gold, which means this technology requires gold. Gold is very expensive and not everyone coudl afford it. But most importantly, the Irvine teams doesn't know how this mechanism works, and so this technology need more research to be improve and affordable to everyone.  
+
+### Conclusion ###
+This is perhaps a great technology for the future! It can change how our gadgets become more durable and save the environment by avoid changing battery frequently. But this technology has an issue, which is the resource: gold. The article mentioned the technology requires gold, definitely not an affordable resource for everyone. But most importantly, the Irvine teams doesn't know how this mechanism works, which means this technology needs more research.
 
 ---
 
 Reference:  
-1. Dave Gershgorn (2016). Researchers Accidentally Make Batteries Last 400 Times Longer. Retrieved from https://www.popsci.com/researchers-accidentally-make-batteries-last-400-times-longer
+1. Gershgorn. D (2016). Researchers Accidentally Make Batteries Last 400 Times Longer. Retrieved from https://www.popsci.com/researchers-accidentally-make-batteries-last-400-times-longer
 2. Hill, Marquita K., Watts, John., Wastebusters., Danaher, Kevin., Biggs, Shannon., Mark, Jason (2018). Primary cell. Retrieved from https://en.wikipedia.org/wiki/Primary_cell
