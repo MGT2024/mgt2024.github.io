@@ -13,6 +13,10 @@ Aluminium-air battery is lighter than lithium-ion battery, and that is the reaso
 This technology is made with aluminium plates. 
 
 ### How it works? ###
+
+<img src="https://www.extremetech.com/wp-content/uploads/2013/03/metal-air-cathode-electrode-chemistry-e1364393097270-640x350.jpg" style="margin:auto;display:block;">
+Credit: Extreme Tech
+
 This technology uses oxygen, which is part of the air, to fill its cathode. It turn the metal into aluminium hydroxide, which can be used again to make new battery. Car owner would have to swap batteries every few months. Tesla showed their battery swap service only requires 90-seconds. To maintain this reaction, car owners would just have to add tap water every few months (Edwards, 2014).
 
 ### Conclusion ###
