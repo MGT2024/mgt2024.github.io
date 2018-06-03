@@ -4,6 +4,7 @@ cover: 'https://www.sciencealert.com/images/articles/processed/138239467-battery
 title: Foldable bio-battery
 date: 2017-11-29 04:00:00
 author: Chan Jing Hong
+tags: [eco-friendly, affordable]
 ---
 ## A bio-battery that powered by bacteria, could be manufactured cheap and easily ##
 

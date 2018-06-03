@@ -4,6 +4,7 @@ cover: 'https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2015/19-sc
 title: Laser-made microsupercapacitors
 date: 2017-11-29 04:00:00
 author: Shum Ka Poh
+tags: [affordable, thin]
 ---
 ## Microsupercapacitors are not batteries but they can store energy. Traditional capacitors stores energy and release it quickly like camera flash##
 

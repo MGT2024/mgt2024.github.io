@@ -4,6 +4,7 @@ cover: 'https://www.geek.com/wp-content/uploads/2016/09/nanowire-gel.jpg'
 title: Gold nanowire batteries
 date: 2017-11-29 04:00:00
 author: Shum Ka Poh
+tags: [expensive, thin]
 ---
 
 ## Gold nanowire batteries has the potential to replace current batteries as they can last longer and can withand 200,000 charges and shows no sign of tear and wear. ##

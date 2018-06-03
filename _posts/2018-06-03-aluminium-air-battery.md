@@ -4,6 +4,7 @@ cover: 'https://www.extremetech.com/wp-content/uploads/2013/03/aluminium-air-bat
 title: Aluminium-air battery
 date: 2017-11-29 04:00:00
 author: Chan Jing Hong
+tags: [lightweight]
 ---
 ## A single charge on an electric car manage to travel 1,770 kilometers, where as Tesla Model S can only travel up to 482 kilometers ##
 
