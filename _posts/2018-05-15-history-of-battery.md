@@ -1,9 +1,10 @@
 ---
 layout: post
-cover: 'https://www.geek.com/wp-content/uploads/2016/09/nanowire-gel.jpg'
+cover: 'https://w-dog.net/wallpapers/15/10/532392502115890.jpg'
 title: History of battery
 date: 2017-11-29 04:00:00
 author: Shum Ka Poh
+tags: [history, statistics]
 ---
 
 ## Battery is like an energy storing system. It stores energy and convert into electric, which is a essential for city. ##
