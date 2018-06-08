@@ -28,11 +28,16 @@ When both the cathode and anode is contact with each other, a cellular respirati
 ### Existing research ###
 In 2016, a team of researcher from China and US showed an origami-style lithium ion battery that can stretch and retract. Few months later, researcher from Sweden made a sheet of cellulose and polymer that can store energy. At November 2016, UK design a battery that is inspired by human intestine. The lithium-sulphur battery catches the sulphur fragments that break off over time to resist degradation (Dockrill, 2016). 
 
+### Where is the product heading? ###
+They can be use to run sensors which monitors glucose levels in diabetes or detect panthogen in a person's body. (Wood, 2017)
+
 #### Conclusion ###
 This technology stills required alot of work with the current working conditions, it requires million of these paper batteries just to power up a 40-watts bulb. And with nowadays household, there are more than just a bulb to powered up. But this technology is definitely a clean way to produce electric, as this technology's source can be found everywhere on earth. 
 
 ---
-Reference:  
-1. Paper chromatography I chemistry (2018). Retrieved from https://www.britannica.com/science/paper-chromatography
-2. Bailey, R. (2003). Cellular Respiration. Retrieved from https://www.thoughtco.com/cellular-respiration-process-373396
-3. Dockrill, P. (2016) This Foldable Battery Is Powered by Bacteria From Wastewater. Retrieved from https://www.sciencealert.com/this-foldable-battery-is-powered-by-bacteria-from-wastewater 
+Reference:
+<ol>  
+<li> Bailey, R. (2003). Cellular Respiration. Retrieved from https://www.thoughtco.com/cellular-respiration-process-373396
+<li> Dockrill, P. (2016) This Foldable Battery Is Powered by Bacteria From Wastewater. Retrieved from https://www.sciencealert.com/this-foldable-battery-is-powered-by-bacteria-from-wastewater 
+<li> Paper chromatography I chemistry (2018). Retrieved from https://www.britannica.com/science/paper-chromatography
+<li> Wood S. (2017). This Paper-Thin Foldable Battery Is Powered by Bacteria. Retrieved from https://invisiverse.wonderhowto.com/news/paper-thin-foldable-battery-is-powered-by-bacteria-0175667/
