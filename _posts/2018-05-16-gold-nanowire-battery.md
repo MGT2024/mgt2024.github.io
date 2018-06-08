@@ -37,7 +37,7 @@ Irvine battery technology team uses gold nanowire with metal oxide coating and l
 15% of the global's gold demand is for industrial use and is woth $15.6 billion annually ("Special Report: Lead, Lithium, and Gold: Top Energy Storage Investments of Tomorrow," n.d.).
 
 ### Where is the product heading? ###
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lzFzBpwl8aU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lzFzBpwl8aU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="display:block;margin:auto;"></iframe>
 Credit: Youtube
 
 ### Conclusion ###
