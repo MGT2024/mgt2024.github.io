@@ -24,10 +24,18 @@ This technology is manufactured using commercial laster, burning electrode patte
 
 <br>
 
-#### Conclusion ###
-This is a new discovery to store energy. Although it is not a type of battery, but the function is similar to battery, a energy storage systems. The problem of this technology is that our devices and car are still using batteries instead of capacitors. James Tour is convinced that supercapacitors will replace batteries in the future.  
+### Market ###
+The market for supercapacitors is expected to grow $3.1 billion by 2026 as the demand for hybrid electrical vehicles and portable electronics. 
+
+### Where is the product heading? ###
+There is a similar supercapacitors that is created in Nanyang Technological Unversity in Singapore. Chen and his team managed to make a stretchable micro supercapacitors. He concludes that the graphene is the factor of storing energy. This stretchable micro-supercapacitors can be used in pressure or chemical sensors. The current version of this technology is test on LCD powered devices, and can only last for wa minute. (Cottingham, 2016)
+
+### Conclusion ###
+This is a new discovery to store energy. Although it is not a type of battery, but the function is similar to battery, a energy storage systems. The problem of this technology is that our devices and vehicles still rely on batteries instead of capacitors. James Tour is convinced that supercapacitors will replace batteries in the future.  
 
 ---
 Reference:  
-1. Scientists see the light on microsupercapacitors: Laser-induced graphene makes simple, powerful energy storage possible (2015). Retrieved from https://phys.org/news/2015-12-scientists-microsupercapacitors.html
-2. Andrews, R. (2015). Super Powerful, Laser-Made Graphene Capacitors Created In A Flash. Retrieved from http://www.iflscience.com/technology/super-powerful-laser-made-graphene-capacitors-created-flash/
+<ol> 
+<li> Andrews, R. (2015). Super Powerful, Laser-Made Graphene Capacitors Created In A Flash. Retrieved from http://www.iflscience.com/technology/super-powerful-laser-made-graphene-capacitors-created-flash/
+<li> Cotthingham, K. (2016). Stretchy supercapacitors power wearable electronics. Retrieved from https://www.acs.org/content/acs/en/pressroom/newsreleases/2016/august/stretchy-supercapacitors-power-wearable-electronics.html
+<li> Scientists see the light on microsupercapacitors: Laser-induced graphene makes simple, powerful energy storage possible (2015). Retrieved from https://phys.org/news/2015-12-scientists-microsupercapacitors.html
