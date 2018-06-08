@@ -25,7 +25,7 @@ This technology is manufactured using commercial laster, burning electrode patte
 <br>
 
 ### Market ###
-The market for supercapacitors is expected to grow $3.1 billion by 2026 as the demand for hybrid electrical vehicles and portable electronics. 
+The market for supercapacitors is expected to grow $3.1 billion by 2026 as the demand for hybrid electrical vehicles and portable electronics. (DUBLIN, 2017)
 
 ### Where is the product heading? ###
 There is a similar supercapacitors that is created in Nanyang Technological Unversity in Singapore. Chen and his team managed to make a stretchable micro supercapacitors. He concludes that the graphene is the factor of storing energy. This stretchable micro-supercapacitors can be used in pressure or chemical sensors. The current version of this technology is test on LCD powered devices, and can only last for wa minute. (Cottingham, 2016)
@@ -39,3 +39,4 @@ Reference:
 <li> Andrews, R. (2015). Super Powerful, Laser-Made Graphene Capacitors Created In A Flash. Retrieved from http://www.iflscience.com/technology/super-powerful-laser-made-graphene-capacitors-created-flash/
 <li> Cotthingham, K. (2016). Stretchy supercapacitors power wearable electronics. Retrieved from https://www.acs.org/content/acs/en/pressroom/newsreleases/2016/august/stretchy-supercapacitors-power-wearable-electronics.html
 <li> Scientists see the light on microsupercapacitors: Laser-induced graphene makes simple, powerful energy storage possible (2015). Retrieved from https://phys.org/news/2015-12-scientists-microsupercapacitors.html
+<li> DUBLIN (2017). Global Supercapacitor Market to Reach $3.1 Billion by 2026 - Growing Demand for Micro Supercapacitors & Development of High Energy Density Supercapacitors - Research and Markets. Retrieved from https://www.prnewswire.com/news-releases/global-supercapacitor-market-to-reach-31-billion-by-2026---growing-demand-for-micro-supercapacitors--development-of-high-energy-density-supercapacitors---research-and-markets-300471639.html
