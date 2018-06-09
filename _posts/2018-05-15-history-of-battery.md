@@ -14,6 +14,8 @@ Today batteries come in different range of sizes, guarantee of supplying electri
 ### How it works ###
 Battery have three parts in it, which is anode, cathode and electrolyte. Electrolyte are place between anode and cathode, to act as a medium to flow the electrical charge between the anode and cathode. When the battery is connected to a device, a chemical reaction occur on the elctrode and create flow of electrical energy. When the battery is discharged, oxidation reaction occurs, a process of anode release electrons and turn into ions in electrolyte. The ions will move to cathode and turn into electrons and flow to the external circuit (Bates, 2012).  
 
+<img src="http://www.qrg.northwestern.edu/projects/vss/docs/media/Power/battery.gif" style="display:block;margin:auto;">
+
 ### History ###  
 <span style= "font-size:30px;"> 1800 </span> Voltaic Pile. Alessandro Volta, a Italian physicist seperates stacked of copper and zinc discs with cloth and soaked into salty water. Wires are connected to one of the end. Each of the copper and zinc disc could produce 0.76 Volts, the more set of the disc would produce more volts.
 
@@ -36,6 +38,7 @@ Credit: Amazon
 Credits: Grand View Research
 
 The graph above shows the market revenue in USD billion unit of types of battery from year 2013 to forecast of year 2024. From year 2013 to 2017, the total revenue for lithium ion and lead acid rose high. This is because lithium ion is mainly use on gadgets while lead acid battery is mainly use in car.
+
 ---
 
 Reference:  
