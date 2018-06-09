@@ -40,4 +40,4 @@ Reference:
 <li> Bailey, R. (2003). Cellular Respiration. Retrieved from https://www.thoughtco.com/cellular-respiration-process-373396
 <li> Dockrill, P. (2016) This Foldable Battery Is Powered by Bacteria From Wastewater. Retrieved from https://www.sciencealert.com/this-foldable-battery-is-powered-by-bacteria-from-wastewater 
 <li> Paper chromatography I chemistry (2018). Retrieved from https://www.britannica.com/science/paper-chromatography
-<li> Wood S. (2017). This Paper-Thin Foldable Battery Is Powered by Bacteria. Retrieved from https://invisiverse.wonderhowto.com/news/paper-thin-foldable-battery-is-powered-by-bacteria-0175667/
+<li> Wood S. (2017). This Paper-Thin Foldable Battery Is Powered by Bacteria. Retrieved from https://invisiverse.wonderhowto.com/news/paper-thin-foldable-battery-is-powered-by-bacteria-0175667/t
